@@ -1,3 +1,0 @@
-/Users/seongbin/Desktop/File/Project/Sunrin-C-Project/cmake-build-debug/CMakeFiles/Sunrin_C_Project.dir
-/Users/seongbin/Desktop/File/Project/Sunrin-C-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/seongbin/Desktop/File/Project/Sunrin-C-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
